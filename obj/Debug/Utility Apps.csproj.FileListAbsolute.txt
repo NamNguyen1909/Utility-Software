@@ -1,0 +1,15 @@
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\bin\Debug\Utility Apps.exe.config
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\bin\Debug\Utility Apps.exe
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\bin\Debug\Utility Apps.pdb
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility Apps.csproj.AssemblyReference.cache
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility_Apps.FormStart.resources
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility_Apps.Properties.Resources.resources
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility Apps.csproj.GenerateResource.cache
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility Apps.csproj.CoreCompileInputs.cache
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility Apps.exe
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility Apps.pdb
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility_Apps.SetShutdownTime.resources
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility_Apps.Notebook.resources
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility_Apps.Reminder.resources
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility_Apps.AJob.resources
+F:\Nam\CODE\University\HKV\[232] ITEC2401 - Lập trình giao diện (TH036-IT2201)\Utility Apps\obj\Debug\Utility_Apps.DailyPlan.resources
